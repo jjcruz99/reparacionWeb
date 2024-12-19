@@ -3,3 +3,21 @@ html {
     width: 100%;
   }
   
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  #cuerpo{
+    background-color: rgb(180, 164, 164);
+  }
+  h3{
+   color : green;
+  }
+
+  .classAzul{
+    color: blue;
+  }
+  
+  .classRojo{
+   color:red
+  }
